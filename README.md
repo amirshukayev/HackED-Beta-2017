@@ -4,10 +4,7 @@
 
 Created during HackED beta with : 
 
-Tamara Bojovic: https://github.com/bojotamara
-
-Pranavkumar Bodawala: https://github.com/pranavB6
-
-Christian Lo: https://github.com/HotSauceMayoMan
-
-Arun Woosaree: https://github.com/arunscape
+-Tamara Bojovic: https://github.com/bojotamara
+-Pranavkumar Bodawala: https://github.com/pranavB6
+-Christian Lo: https://github.com/HotSauceMayoMan
+-Arun Woosaree: https://github.com/arunscape
