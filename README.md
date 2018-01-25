@@ -31,7 +31,7 @@ Features:
 - Lights that change colour
 - Wobbly Camera
 
-![preview of Party Mode](/images/partymode.PNG)
+![preview of Party Mode](https://raw.githubusercontent.com/Arunscape/Gallery-In-Three.js-HackED-Beta-2017/new_master/images/partymode.PNG)
 
 ###### Note: Party Mode can be resource intensive (taxes bandwidth and CPU), so we also made a more [lightweight version](https://arunscape.github.io/Gallery-In-Three.js-HackED-Beta-2017/partySmall.html) which loads fewer GIFs,
 
@@ -42,7 +42,7 @@ Features:
 - Flashing lights
 - Random Teleportation
 
-![preview of Horror Mode](/images/horrormode.PNG)
+![preview of Horror Mode](https://raw.githubusercontent.com/Arunscape/Gallery-In-Three.js-HackED-Beta-2017/new_master/images/horrormode.PNG)
 
  ---
  ###### Note: All GIFs are loaded from [gfycat](https://gfycat.com/). Party mode uses gfycat's API to fetch 100 top trending GIFs as links in a JSON object, then randomly selects GIFs to display. This functionality could easily have also been implemented in Snowboard Mode and Horror Mode as well, but it was more of a proof of concept. We wanted to focus on improving the other modes once Party Mode was finalized, so the GIFs in Snowboard and Horror Mode are just direct links.
