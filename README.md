@@ -21,9 +21,9 @@ Gallery in Three.js is a 3-D gallery app made in  [Three.js](https://threejs.org
 ### [Snowboard Mode](https://arunscape.github.io/Gallery-In-Three.js-HackED-Beta-2017/snowboard.html)
 The most basic of the three modes, has snowboarding GIFs.
 
-![preview of Snowboard Mode](/images/snowboardmode.PNG)
+![preview of Snowboard Mode](https://raw.githubusercontent.com/Arunscape/Gallery-In-Three.js-HackED-Beta-2017/new_master/images/snowboardmode.PNG)
 
-### [Party Mode](https://arunscape.github.io/Gallery-In-Three.js-HackED-Beta-2017/party.html)
+### [Party Mode](https://raw.githubusercontent.com/Arunscape/Gallery-In-Three.js-HackED-Beta-2017/new_master/images/partymode.PNG)
 We don't know what social interaction would feel like, but this felt good enough.
 
 Features:
@@ -35,7 +35,7 @@ Features:
 
 ###### Note: Party Mode can be resource intensive (taxes bandwidth and CPU), so we also made a more [lightweight version](https://arunscape.github.io/Gallery-In-Three.js-HackED-Beta-2017/partySmall.html) which loads fewer GIFs,
 
-### [Horror Mode](https://arunscape.github.io/Gallery-In-Three.js-HackED-Beta-2017/horror_mode.html)
+### [Horror Mode](https://raw.githubusercontent.com/Arunscape/Gallery-In-Three.js-HackED-Beta-2017/new_master/images/horrormode.PNG)
 Okay, maybe this isn't actually scary but it definitely looks cool.
 
 Features:
@@ -50,7 +50,7 @@ Features:
 ## Controls:
 Use the arrow keys on your keyboard to move
 
- <img src="/images/arrowkeys.png" width="200">
+ <img src="/https://raw.githubusercontent.com/Arunscape/Gallery-In-Three.js-HackED-Beta-2017/new_master/images/arrowkeys.png" width="200">
 
 Pressing the spacebar will toggle the camera automatically rotating slowly on all modes, except for the "full" Party Mode
 
