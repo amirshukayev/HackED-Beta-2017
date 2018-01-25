@@ -8,10 +8,10 @@
 
 ---
 #### Project contributors:
+* Amir Shukayev
 * Arun Woosaree
 * Tamara Bojovic
 * Christian Lo
-* Amir Shukayev
 * Pranavkumar Bodawala  
 ---
 
