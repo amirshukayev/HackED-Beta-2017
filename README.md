@@ -6,8 +6,6 @@
 
 #### Winner in category: "Best Web/Data Hack"
 
-https://arunscape.github.io/Gallery-In-Three.js-HackED-Beta-2017/
-
 ---
 #### Project contributors:
 * Arun Woosaree
